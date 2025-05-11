@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-[My arxiv page](https://arxiv.org/a/bergman_a_1.html)
+[Arxiv](https://arxiv.org/a/bergman_a_1.html)
 
 <!-- _pages/publications.md -->
 
