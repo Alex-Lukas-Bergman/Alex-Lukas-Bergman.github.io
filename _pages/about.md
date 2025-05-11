@@ -36,4 +36,3 @@ My field of research is analysis. I am typically working in the intersection of 
 [Google Scholar](https://scholar.google.com/citations?user=2V-rre8AAAAJ&hl=sv&oi=sra)
 [Orcid](https://orcid.org/0009-0004-7328-2413)
 [My profile at Lund university](https://www.lunduniversity.lu.se/lucat/user/95b9263e6e7a68136dcc4e786bd8e7bc)
-
