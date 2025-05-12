@@ -2,12 +2,12 @@
 layout: page
 permalink: /publications/
 title: publications
-description: publications by categories in reversed chronological order
+description:
 nav: true
 nav_order: 2
 ---
 
-[Arxiv](https://arxiv.org/a/bergman_a_1.html)
+My preprints may be found on my [Arxiv page](https://arxiv.org/a/bergman_a_1.html).
 
 <!-- _pages/publications.md -->
 
