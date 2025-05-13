@@ -31,15 +31,15 @@ I am a PhD student at Lund university. My advisor is Alexandru Aleman.
 
 My field of research is analysis. I am typically working in the intersection of complex analysis, operator theory, and Fourier analysis. Recently I have been interested in entire functions and their applications. Below you can find a list of some of my research interests.
 
-* Banach and Hilbert spaces of analytic functions (Hardy, Dirichlet, Bergman, etc)
-* Approximation problems
-* The uncertainty principle in Fourier analysis
-* Cyclic vectors and invariant subspaces
-* Sharp inequalities and extremal functions (e.g. for entire functions, Chebyshev polynomials)
-* Shift and integral operators
-* De Branges and model spaces
-* Canonical systems of differential equations (Including the classical Schrödinger, Dirac, Jacobi, and Krein strings)
-* The non-linear Fourier transform
-* Reproducing kernels
+- Banach and Hilbert spaces of analytic functions (Hardy, Dirichlet, Bergman, etc)
+- Approximation problems
+- The uncertainty principle in Fourier analysis
+- Cyclic vectors and invariant subspaces
+- Sharp inequalities and extremal functions (e.g. for entire functions, Chebyshev polynomials)
+- Shift and integral operators
+- De Branges and model spaces
+- Canonical systems of differential equations (Including the classical Schrödinger, Dirac, Jacobi, and Krein strings)
+- The non-linear Fourier transform
+- Reproducing kernels
 
 [My profile at Lund university.](https://www.lunduniversity.lu.se/lucat/user/95b9263e6e7a68136dcc4e786bd8e7bc)
