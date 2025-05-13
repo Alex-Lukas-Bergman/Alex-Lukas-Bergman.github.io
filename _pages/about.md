@@ -29,6 +29,6 @@ latest_posts:
 
 I am a PhD student at Lund university. My advisor is Alexandru Aleman.
 
-My field of research is analysis. I am typically working in the intersection of complex analysis, operator theory, and Fourier analysis. Recently I have been interested in entire functions.
+My field of research is analysis. I am typically working in the intersection of complex analysis, operator theory, and Fourier analysis. Recently I have been interested in entire functions and their applications.
 
 [My profile at Lund university.](https://www.lunduniversity.lu.se/lucat/user/95b9263e6e7a68136dcc4e786bd8e7bc)
