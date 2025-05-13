@@ -1,5 +1,4 @@
 ---
-
 layout: cv
 permalink: /cv/
 title: CV
@@ -9,5 +8,4 @@ cv_pdf: CV.pdf # you can also use external links here
 description: You can download a PDF version of my CV using the link to the right.
 toc:
 sidebar: false
-
 ---
