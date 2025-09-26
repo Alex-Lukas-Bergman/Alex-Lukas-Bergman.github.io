@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Alex-Lukas-Bergman.github.io/sitemap.xml
