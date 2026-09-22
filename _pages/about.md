@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a postdoctoral research fellow at MIT, funded by the Knut and Alice Wallenberg foundation. My host is Aleksandr Logunov. Previously I was a PhD student at Lund university. My PhD advisor was Alexandru Aleman.
+I am a postdoctoral research fellow at MIT, funded by the Knut and Alice Wallenberg foundation. My host is Aleksandr Logunov. Previously, I was a PhD student at Lund university. My PhD advisor was Alexandru Aleman.
 
 My field of research is analysis. I am typically working in the intersection of complex analysis, Fourier analysis, and operator theory. Recently I have been interested in entire functions and their applications. You can find a popular scientific summary of my research at <a href="https://kaw.wallenberg.org/alex-bergman">KAW</a>.
