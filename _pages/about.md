@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 524</p>
-    <p>Sölvegatan 18A</p>
-    <p>Lund, Sweden</p>
+    <p>Office: 2-155</p>
+    <p>182 Memorial Drive</p>
+    <p>Cambridge, USA</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
