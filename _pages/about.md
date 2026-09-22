@@ -27,19 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student at Lund university. My advisor is Alexandru Aleman.
+I am a postdoctoral research fellow at MIT, funded by the Knut and Alice Wallenberg foundation. My host is Aleksandr Logunov. Previously I was a PhD student at Lund university. My PhD advisor was Alexandru Aleman.
 
-My field of research is analysis. I am typically working in the intersection of complex analysis, operator theory, and Fourier analysis. Recently I have been interested in entire functions and their applications. Below you can find a list of some of my research interests.
-
-- Banach and Hilbert spaces of analytic functions (Hardy, Dirichlet, Bergman, etc)
-- Approximation problems
-- The uncertainty principle in Fourier analysis
-- Cyclic vectors and invariant subspaces
-- Sharp inequalities and extremal functions (e.g. for entire functions, Chebyshev polynomials)
-- Shift and integral operators
-- De Branges and model spaces
-- Canonical systems of differential equations (Including the classical Schrödinger, Dirac, Jacobi, and Krein strings)
-- The non-linear Fourier transform
-- Reproducing kernels
-
-[My profile at Lund university.](https://www.lunduniversity.lu.se/lucat/user/95b9263e6e7a68136dcc4e786bd8e7bc)
+My field of research is analysis. I am typically working in the intersection of complex analysis, Fourier analysis, and operator theory. Recently I have been interested in entire functions and their applications. You can find a popular scientific summary of my research at \hyperlink{https://kaw.wallenberg.org/alex-bergman}{KAW}..
